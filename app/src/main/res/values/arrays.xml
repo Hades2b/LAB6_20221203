@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="teams">
+        <item>Argentina</item>
+        <item>Brasil</item>
+        <item>Francia</item>
+        <item>Alemania</item>
+        <item>España</item>
+        <item>Inglaterra</item>
+        <item>Países Bajos</item>
+        <item>Portugal</item>
+    </string-array>
+
+    <string-array name="estados">
+        <item>Acertado</item>
+        <item>Fallado</item>
+        <item>Pendiente</item>
+    </string-array>
+
+</resources>
